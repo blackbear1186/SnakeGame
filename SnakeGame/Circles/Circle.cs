@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SnakeGame.Circles
 {
-    public class Circle 
+    public abstract class Circle 
     {
         private int _x;
         private int _y;
